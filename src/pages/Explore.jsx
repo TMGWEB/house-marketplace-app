@@ -1,7 +1,7 @@
 const Explore = () => {
   return (
     <div>
-      <h1>Explore</h1>
+      <h1>Explore!</h1>
     </div>
   )
 }
